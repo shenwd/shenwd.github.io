@@ -13,17 +13,4 @@
         <tag>github page</tag>
       </tags>
   </entry>
-  <entry>
-    <title><![CDATA[macOS下使用Hexo 搭建博客]]></title>
-    <url>%2F2019%2F02%2F20%2FmacOS%E4%B8%8B%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[环境配置git]]></content>
-      <categories>
-        <category>流程记录</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>个人博客</tag>
-        <tag>github page</tag>
-      </tags>
-  </entry>
 </search>
